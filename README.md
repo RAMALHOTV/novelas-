@@ -1,3 +1,12 @@
+<layouttype>thumbnail</layouttype>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+<channels>
+
+
+
 <channel>
 <name></name>
 <thumbnail>https://redecanais.ws/imgs-videos/Novelas/A%20Dona%20do%20Peda%C3%A7o%20Capa.jpg</thumbnail>
