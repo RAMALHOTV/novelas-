@@ -5,8 +5,6 @@
 
 <channels>
 
-
-
 <channel>
 <name></name>
 <thumbnail>https://redecanais.ws/imgs-videos/Novelas/A%20Dona%20do%20Peda%C3%A7o%20Capa.jpg</thumbnail>
@@ -20,7 +18,7 @@ Número de episódios: 161</info>
 
 
 <channel>
-<name></name>
+<name>A Indomada</name>
 <thumbnail>https://redecanais.ws/imgs-videos/Novelas/A%20Indomada.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ffMzm1Rb</externallink>
 <fanart>https://redecanais.ws/imgs-videos/Novelas/A%20Indomada.jpg</fanart>
