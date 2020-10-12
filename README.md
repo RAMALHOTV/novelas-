@@ -6,7 +6,7 @@
 <channels>
 
 <channel>
-<name></name>
+<name>A Dona do Pedaço </name>
 <thumbnail>https://redecanais.ws/imgs-videos/Novelas/A%20Dona%20do%20Peda%C3%A7o%20Capa.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/j6Uq595M</externallink>
 <fanart>https://redecanais.ws/imgs-videos/Novelas/A%20Dona%20do%20Peda%C3%A7o%20Capa.jpg</fanart>
